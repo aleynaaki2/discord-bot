@@ -39,5 +39,5 @@ client.on('messageCreate', async (message) => {
     }
   }
 });
-
+// test degisikligi
 client.login(process.env.TOKEN);
